@@ -1,17 +1,13 @@
 <h1 align="center">Hi 👋, I'm Trung</h1>
 <h3 align="center">Sinh viên CNTT</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=trung1609&label=Profile%20views&color=0e75b6&style=flat" alt="trung1609" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=trung1609" alt="trung1609" /></a> </p>
-
 - 🌱 I’m currently learning **Java Core, Java Spring Boot**
 
 - 💬 Ask me about **Java Core, Java Spring Boot**
 
 - 📫 How to reach me **trung8d2005@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: https://github.com/trung1609</h3>
 <p align="left">
 </p>
 
