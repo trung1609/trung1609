@@ -10,8 +10,12 @@
 
 ### 🤝 Connect with me:
 <p align="left">
-<a href="https://linkedin.com/in/trung-vũ-021693341/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="Trung Vũ" height="40" width="40" /></a>
-<a href="https://github.com/trung1609" target="blank"><img align="center" src="https://skillicons.dev/icons?i=github" alt="trung1609" height="40" width="40" /></a>
+  <a href="https://linkedin.com/in/trung-vũ-021693341/" target="blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" width="40" />
+  </a>&nbsp;&nbsp;
+  <a href="https://github.com/trung1609" target="blank">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40" width="40" />
+  </a>
 </p>
 
 ### 🛠 Languages and Tools:
