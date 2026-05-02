@@ -34,10 +34,8 @@
 ### 📊 GitHub Stats:
 <p align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=trung1609&show_icons=true&theme=radical&rank_icon=github&display_format=github-light-default" alt="GitHub Stats" height="180px" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trung1609&layout=compact&theme=radical&hide=html,css&display_format=github-light-default" alt="Top Languages" height="180px" />
   </a>
 </p>
 
