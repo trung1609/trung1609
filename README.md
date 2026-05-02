@@ -39,7 +39,19 @@
   </a>
 </p>
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=trung1609&theme=radical" alt="GitHub Streak" />
-</p>
+
+<tr>
+  <td width="50%" align="left">
+    <a href="https://github.com/trung1609">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=trung1609&theme=radical" alt="GitHub Streak" />
+    </a>
+  </td>
+  <td width="50%" align="right">
+    <a href="https://github.com/trung1609">
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=trung1609&layout=donut&theme=radical&hide_progress=false&count_private=true" alt="Top Langs" />
+    </a>
+  </td>
+</tr>
+
+
 
