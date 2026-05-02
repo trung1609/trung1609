@@ -33,6 +33,10 @@
 
 ### 📊 GitHub Stats:
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=trung1609&show_icons=true&theme=radical" alt="trung1609" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trung1609&layout=compact&theme=radical" alt="trung1609" />
+  <img src="https://github-readme-stats.vercel.app/api?username=trung1609&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" height="192px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trung1609&layout=compact&theme=radical&hide=html,css" alt="Top Languages" height="192px" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=trung1609&theme=radical" alt="GitHub Streak" />
 </p>
