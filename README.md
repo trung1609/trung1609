@@ -27,7 +27,7 @@
 
 **Frontend & Design**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,react,vue,material,tailwind,bootstrap,css,html,figma" />
+  <img src="https://skillicons.dev/icons?i=js,react,vue,tailwind,bootstrap,css,html,figma" />
 </p>
 
 **Others**
