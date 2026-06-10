@@ -22,12 +22,12 @@
 
 **Backend & Database**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,redis,rabbitmq,kafka,docker,aws" />
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,redis,rabbitmq,kafka,docker" />
 </p>
 
 **Frontend & Design**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,react,vue,angular,tailwind,bootstrap,css,html,figma" />
+  <img src="https://skillicons.dev/icons?i=js,react,vue,material,tailwind,bootstrap,css,html,figma" />
 </p>
 
 **Others**
